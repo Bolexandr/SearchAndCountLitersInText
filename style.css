@@ -1,0 +1,7 @@
+.headerMainSectionFormInput{
+  display: block;
+  width: 500px;
+  height: 100px;
+  margin: 10px;
+overflow: scroll;
+}
