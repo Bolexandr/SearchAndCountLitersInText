@@ -2,7 +2,7 @@
   "name": "count_liters_in_text",
   "version": "1.0.0",
   "description": "Підрахунок літер цифир значків в тексті\r Розроблена в вільний час для розуміння і тренування методів складних типів в JS\r Позбавлена надлишкової стилізації так як я не мав в той момент бажання бавитись з CSS.",
-  "main": "index.js",
+  "default": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
