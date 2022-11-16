@@ -1,0 +1,23 @@
+{
+  "name": "count_liters_in_text",
+  "version": "1.0.0",
+  "description": "Підрахунок літер цифир значків в тексті\r Розроблена в вільний час для розуміння і тренування методів складних типів в JS\r Позбавлена надлишкової стилізації так як я не мав в той момент бажання бавитись з CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bolexandr/----------------------------------.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bolexandr/----------------------------------/issues"
+  },
+  "homepage": "https://github.com/Bolexandr/----------------------------------#readme",
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  }
+}
