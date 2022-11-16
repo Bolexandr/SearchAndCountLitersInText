@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bolexandr/----------------------------------.git"
+    "url": "git+https://github.com/Bolexandr/SearchAndCountLitersInText.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bolexandr/----------------------------------/issues"
+    "url": "https://github.com/Bolexandr/SearchAndCountLitersInText/issues"
   },
-  "homepage": "https://github.com/Bolexandr/----------------------------------#readme",
+  "homepage": "https://github.com/Bolexandr/SearchAndCountLitersInText.io",
   "devDependencies": {
     "parcel": "^2.8.0"
   }
