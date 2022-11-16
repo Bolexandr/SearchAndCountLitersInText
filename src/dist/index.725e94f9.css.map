@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/style.css"],"sourcesContent":[".headerMainSectionFormInput{\r\n  display: block;\r\n  width: 500px;\r\n  height: 100px;\r\n  margin: 10px;\r\noverflow: scroll;\r\n}"],"names":[],"version":3,"file":"index.725e94f9.css.map","sourceRoot":"/__parcel_source_root/"}
